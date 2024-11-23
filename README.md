@@ -1,10 +1,10 @@
 # Hi there 👋 I'm Ahmad Mirzaei
                                             
-![red-line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+![Fading-Line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 ![home](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIzNzUwMDksIm5iZiI6MTczMjM3NDcwOSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTIzVDE1MTE0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg5MTM4ZTMwZmZmZTFkYWNiNzMwZDQ5NjRmMzBjOGI2NGVkZGI0MDYyNzczNDFmNjA0MzQzNjE1ZTc2YzIxNTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.QhJ22C4gE1D6QHAKA7txqNr0nG5dvXLTCivVfa9QDCY)
 
-![red-line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+![Fading-Line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 <!--
 **Ahmad-Mirzaei/Ahmad-Mirzaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
