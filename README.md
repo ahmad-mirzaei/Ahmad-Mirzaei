@@ -26,4 +26,7 @@
   <a href="https://www.linkedin.com/in/ahmad-mirzaei-61416a340/">
     <img src="https://img.shields.io/badge/Linkedin-ahmadmirzaei-blue?logo=linkedin" />
   </a>
+ <a href="https://x.com/ahmadmirzaei_/">
+    <img src="https://img.shields.io/badge/X-@ahmadmirzaei-blue?logo=X" />
+  </a>
 </p>
