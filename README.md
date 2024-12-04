@@ -24,6 +24,6 @@
     <img src="https://img.shields.io/badge/Email-ahmadmirzaei.py@gmail.com-orange?logo=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/ahmad-mirzaei-61416a340/">
-    <img src="https://img.shields.io/badge/Linkedin-ahmad-mirzaei-blue?logo=linkedin" />
+    <img src="https://img.shields.io/badge/Linkedin-ahmadmirzaei-blue?logo=linkedin" />
   </a>
 </p>
