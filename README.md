@@ -10,5 +10,9 @@
 ![Fading-Line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 ---
-<a href="https://www.instagram.com/"><img src="https://github.com/Ahmad-Mirzaei/Ahmad-Mirzaei/blob/main/icons8-instagram.gif?raw=true" alt="Instagram" /></a>
-<a href=""><img src="https://github.com/Ahmad-Mirzaei/Ahmad-Mirzaei/blob/main/icons8-telegram.gif?raw=true" alt="Telegram" /></a>
+<h2> Connect Me : </h2>
+<p align="center">
+  <a href="">
+    <img src="https://img.shields.io/badge/Instagram-@ahmadmirzaei_?style=flat&logo=instagram" />
+  </a>
+</p>
