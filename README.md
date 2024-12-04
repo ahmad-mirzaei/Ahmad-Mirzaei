@@ -22,7 +22,7 @@
   </a>
   
   <a href="https://mail.google.com/">
-    <img src="https://img.shields.io/badge/Email-@ahmadmirzaei.py-orange?logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-ahmadmirzaei.py@gmail.com-orange?logo=gmail" />
   </a>
   
 </p>
