@@ -11,16 +11,15 @@
 
 ---
 <h2> Connect Me : </h2>
+
 <p align="center">
   
   <a href="">
     <img src="https://img.shields.io/badge/Instagram-@ahmadmirzaei_-red?logo=instagram" />
   </a>
-  
-  <a href="https://t.me/AlephMim">
+  <a href="https://t.me/AlephMim/">
     <img src="https://img.shields.io/badge/Telegram-@AlephMim-blue?logo=telegram" />
   </a>
-  
   <a href="https://mail.google.com/">
     <img src="https://img.shields.io/badge/Email-ahmadmirzaei.py@gmail.com-orange?logo=gmail" />
   </a>
