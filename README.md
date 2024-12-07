@@ -15,18 +15,18 @@
 <p align="center">
   
   <a href="https://www.instagram.com/ahmadmirzaei_/">
-    <img src="https://img.shields.io/badge/Instagram-@ahmadmirzaei_-red?logo=instagram" />
+    <img src="https://img.shields.io/badge/Instagram -Click Here-red?logo=instagram" />
   </a>
   <a href="https://t.me/AlephMim/">
-    <img src="https://img.shields.io/badge/Telegram-@AlephMim-blue?logo=telegram" />
+    <img src="https://img.shields.io/badge/Telegram-Click Here-blue?logo=telegram" />
   </a>
   <a href="https://mail.google.com/">
-    <img src="https://img.shields.io/badge/Email-ahmadmirzaei.py@gmail.com-orange?logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Click Here-orange?logo=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/ahmad-mirzaei-61416a340/">
-    <img src="https://img.shields.io/badge/Linkedin-ahmadmirzaei-blue?logo=linkedin" />
+    <img src="https://img.shields.io/badge/Linkedin-Click Here-blue?logo=linkedin" />
   </a>
  <a href="https://x.com/ahmadmirzaei_/">
-    <img src="https://img.shields.io/badge/x-@ahmadmirzaei-blue?logo=X" />
+    <img src="https://img.shields.io/badge/x-Click Here-blue?logo=X" />
   </a>
 </p>
